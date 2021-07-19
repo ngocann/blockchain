@@ -10,3 +10,7 @@
   - Fast computation
   - The avalanche affect 
   - Must withstand collision 
+
+**Imutable ledger**
+
+**Distributed P2P network**
